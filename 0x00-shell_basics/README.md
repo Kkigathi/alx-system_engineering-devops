@@ -1,1 +1,2 @@
 script printing the absolute path name of the current working directory
+LIST OF CONTENT IN DIR
